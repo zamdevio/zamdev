@@ -84,9 +84,9 @@ I built what I call one of the most flexible Telegram Bot architectures out ther
 
 ### 📫 Let's Build or Talk:
 
-- Telegram: [@yourusername](https://t.me/yourusername)
+- Telegram: [@yourusername](https://t.me/zamdevio)
 - Email: youremail@example.com
-- Projects: [ZamDev](https://zamdev.link)
+- Projects: [ZamDev](https://zamdev.org)
 
 ---
 
