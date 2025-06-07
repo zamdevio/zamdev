@@ -45,11 +45,13 @@ I built what I call one of the most flexible Telegram Bot architectures out ther
 
 ### 📦 Projects That Prove It
 
-| Project | What’s the Hype? |
-|--------|------------------|
-| [ZamDev](https://yourlink.com) | A next-gen GitHub-style platform. Built for devs, by a dev who survived with a phone. |
-| Telegram Bot System | Modular, scalable, admin-powered, fire-breathing code-beast. |
-| 40+ API Platform | Built from scratch, solo, with a phone. Yes, read that again. |
+| Project             | What’s the Hype?                                                                           |
+| ------------------- | ------------------------------------------------------------------------------------------ |
+| System Builder      | I build powerful systems using modern frameworks and languages — no excuses, just results. |
+| Telegram Bot System | Modular, scalable, admin-powered, fire-breathing code-beast.                               |
+| 40+ API Platform    | Built from scratch, solo, with a phone. Yes, read that again.                              |
+
+
 
 ---
 
